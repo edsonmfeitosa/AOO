@@ -1,0 +1,3 @@
+Pode utililizar para o desenvolvimento dos diagramas os programas:
+- Astah community
+- Lucidchart (https://lucid.app/pricing/lucidchart#/createAccount)
